@@ -6,14 +6,13 @@ https://www.productplan.com/glossary/user-story/
 
 將音樂訓練app遊戲化
 
-Platform: surface/ipad (major on tablet) / andoird / ios / PC
+Platform: andoird / ios (手機使用者多) > surface/ipad (major on tablet) / PC
 
 上架: steam / gog / google play store / apple store
 
 主次關係:
 * 60% 各種音樂訓練(核心功能)
-* 30% 遊戲化(包裝)
-* 10% 零基礎入門(擴充)
+* 40% 遊戲化(30%包裝, 10%零基礎入門)
 
 ## 市場對象
 * 涵蓋零基礎知識到學音樂5年內的人
@@ -317,31 +316,6 @@ Mode3: 只顯示會用到的key
 自然而然獲得音樂庫 mxl
 
 同時也接收alda樂譜
-
-## Training Code Flow
-
-Random generate alda with 127 measures
-
-convert alda to musicxml format
-
-parse musicxml to data structure
-
-show measures on screen play sounds
-
-
-reference:
-https://github.com/musescore/MuseScore
-
-script language:
-alda-lang 
-reference:
-https://github.com/alda-lang/alda
-
-
-
-## 需要關注的技術
-AI寫程式?
-AI辨識音樂
 
 
 ## 問卷設計>市場取向 
