@@ -163,14 +163,14 @@ ex: 速度30 120 combo總分 > 速度90 60 combo
   * guitar training
 
 故事化，使用POM世界觀
-詳閱 https://partiallyorderedmagic.github.io/
-雙手困難的緣由是因為entropy，三行更難
-精靈弓箭手為keyboard，彈奏正確會放出連續攻擊
-精靈弓箭手有很多角色卡
-人類祭司為，buff，人聲部分音高正確會有輔助效果
-人類有很多角色卡
-矮人戰士為坦，腳踏部分節奏正確會回血
-矮人戰士有很多角色卡
+詳閱 https://partiallyorderedmagic.github.io/  
+雙手困難的緣由是因為entropy，三行更難  
+精靈弓箭手為keyboard，彈奏正確會放出連續攻擊  
+精靈弓箭手有很多角色卡  
+人類祭司為，buff，人聲部分音高正確會有輔助效果  
+人類有很多角色卡  
+矮人戰士為坦，腳踏部分節奏正確會回血  
+矮人戰士有很多角色卡  
 
 ## 輸入方式：
 手機版：
