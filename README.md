@@ -9,6 +9,11 @@ POM games proposal
 
 ## app2 : Profissonal Training
 
+## Target
+* Mobile in major (1.3 billion at 2021)
+* PC in minor (340 million at 2021)
+* Tablet not target (67 million at 2021)
+
 ## Technique
 * [技術](技術/)
 
