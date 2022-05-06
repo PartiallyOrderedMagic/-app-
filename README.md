@@ -12,6 +12,9 @@ POM games proposal
 ## app2 : Profissonal Training
 * Target: people learn music in 3 to 5 years
 
+## Roadmap
+https://hackmd.io/@csSdtC5WTi2sATtjy45nlQ/S1GuZ0M85
+
 ## Marketing/Promoting
 * Platform
   * Mobile in major (1.3 billion at 2021)
@@ -28,5 +31,3 @@ POM games proposal
 ## Technique
 * [Technique](Technique/)
 
-## Roadmap
-https://hackmd.io/@csSdtC5WTi2sATtjy45nlQ/S1GuZ0M85
