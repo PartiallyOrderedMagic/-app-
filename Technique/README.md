@@ -1,5 +1,22 @@
 # app 技術範圍
 
+## 輸入方式：
+手機版：
+* 喇叭辨識
+* 手勢(左半螢幕, 右半螢幕)
+* (optional) 腳踏板
+
+PC版：
+* midi keyboard
+* 手機/平板轉為midi keyboard
+* 鍵盤
+* 滑鼠
+* 腳踏板
+
+
+給一個時間校正
+藍芽現在是low latency校正誤差很小
+
 ## Training Code Flow
 
 Random generate alda with 127 measures
