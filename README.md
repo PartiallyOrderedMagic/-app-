@@ -1,17 +1,16 @@
-# POM app 企劃
+# POM Apps Proposal
 
-## 發想緣由
+POM games proposal
 
-## 
+## Reason
 
-## app1 : 遊戲化音樂app
+## app1 : Music Gamification
 * [企劃](企劃/)
 
-## app2 : 專業音樂app
+## app2 : Profissonal Training
 
-## 開發app需要的技術
+## Technique
 * [技術](技術/)
 
 ## Roadmap
-
 https://hackmd.io/@csSdtC5WTi2sATtjy45nlQ/S1GuZ0M85
