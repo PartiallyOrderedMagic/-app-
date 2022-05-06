@@ -2,19 +2,23 @@
 
 POM games proposal
 
-## Reason
-
-## app1 : Music Gamification
-[企劃](企劃/)
-* Target: people may want to play music game
-
-## app2 : Profissonal Training
-* Target: people learn music in 3 to 5 years
+## Introduction
 
 ## Platform
 * Mobile in major (1.3 billion at 2021)
 * PC in minor (340 million at 2021)
 * Tablet not target (67 million at 2021)
+
+
+
+## app1 : Music Gamification
+[Proposal](Proposal/)
+* Target: people may want to play music game
+
+## app2 : Profissonal Training
+* Target: people learn music in 3 to 5 years
+
+## Marketing
 
 ## Technique
 * [Technique](Technique/)
