@@ -1,12 +1,5 @@
 # 音樂訓練app企劃
 
-畫roadmap
-
-https://www.productplan.com/glossary/user-story/
-
-將音樂訓練app遊戲化
-
-Platform: andoird / ios (手機使用者多) > surface/ipad (major on tablet) / PC
 
 上架: steam / gog / google play store / apple store
 
