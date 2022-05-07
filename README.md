@@ -2,7 +2,7 @@
 
 POM games proposal
 
-## app0 : [versatile utilities](Utility/)
+## app0 : [Versatile Utilities](Utility/)
 
 ## app1 : [Music Gamification](Gamification/)
 
