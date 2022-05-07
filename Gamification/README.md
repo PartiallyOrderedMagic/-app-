@@ -15,7 +15,49 @@ For example, the width of note are not equal while midi will show equal size.
 Further, music terminology is hard for beginners to understand.  
 This game is able to make people learn music by nature while playing game.
 
+
+參考概念：
+* 遊戲
+  * 戰鼓趴搭碰
+  * 太鼓達人
+  * Cytus, deemo, 
+  * OSU
+  * 偶像大師、LL、BB
+
 ## Colours note
 A4 (440Hz) is mapping to orange
 
-## 
+## 遊戲化包裝
+
+* Story mod
+
+給予動機1：
+Story Mode 故事化戰鬥
+
+正向回饋 -> combo數量轉化為分數
+避免直接挑戰困難-> 積分模式在速度差異不顯著
+ex: 速度30 120 combo總分 > 速度90 60 combo
+
+視譜/即興 分數會遠高於固定譜，鼓勵練習視譜和即興
+
+循環反饋動機：
+總分轉換成經驗值
+經驗值會提升等級
+等級上升可以開啟新的地圖關卡 新的Boss 新的劇情  
+不要太硬核
+
+給予動機2：主角卡 隨投入積分轉換經驗值成長
+或者是買角色服裝卡會有劇情  
+抽卡對主線要有意義  
+
+
+
+故事化，使用POM世界觀
+詳閱 https://partiallyorderedmagic.github.io/  
+雙手困難的緣由是因為entropy，三行更難  
+精靈弓箭手為keyboard，彈奏正確會放出連續攻擊  
+精靈弓箭手有很多角色卡  
+人類祭司為，buff，人聲部分音高正確會有輔助效果  
+人類有很多角色卡  
+矮人戰士為坦，腳踏部分節奏正確會回血  
+矮人戰士有很多角色卡  

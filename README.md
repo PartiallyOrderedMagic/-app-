@@ -38,62 +38,6 @@ gantt title Roadmap
 ## Marketing/Promoting
 
 
-## Technique
-* [Technique](Technique/)
-
-
-
-
-### 隱藏功能(好的古典/爵士風格樂譜,吃無版權的歌,xml)
-
-## 遊戲化包裝
-
-* Story mod
-
-給予動機1：
-Story Mode 故事化戰鬥
-
-正向回饋 -> combo數量轉化為分數
-避免直接挑戰困難-> 積分模式在速度差異不顯著
-ex: 速度30 120 combo總分 > 速度90 60 combo
-
-視譜/即興 分數會遠高於固定譜，鼓勵練習視譜和即興
-
-循環反饋動機：
-總分轉換成經驗值
-經驗值會提升等級
-等級上升可以開啟新的地圖關卡 新的Boss 新的劇情  
-不要太硬核
-
-給予動機2：主角卡 隨投入積分轉換經驗值成長
-或者是買角色服裝卡會有劇情  
-抽卡對主線要有意義  
-
-參考概念：
-* 遊戲
-  * 戰鼓趴搭碰
-  * 太鼓達人
-  * Cytus, deemo, 
-  * OSU
-  * 偶像大師、LL、BB
-* 音樂訓練app (競品)
-  * https://www.musictheory.net/exercises/
-  * Ear Training
-  * Funtional ear training
-  * interval training
-  * rhythm training
-  * guitar training
-
-故事化，使用POM世界觀
-詳閱 https://partiallyorderedmagic.github.io/  
-雙手困難的緣由是因為entropy，三行更難  
-精靈弓箭手為keyboard，彈奏正確會放出連續攻擊  
-精靈弓箭手有很多角色卡  
-人類祭司為，buff，人聲部分音高正確會有輔助效果  
-人類有很多角色卡  
-矮人戰士為坦，腳踏部分節奏正確會回血  
-矮人戰士有很多角色卡  
-
 ## 可以PK與否? 有聯機要素嗎
 * 排名會送不同獎勵
 * 包月好處是容易獲得排名
@@ -127,8 +71,6 @@ ex: 速度30 120 combo總分 > 速度90 60 combo
   * 服飾服裝系統
     * 美髮美甲美妝
 
-### 訓練部分長青
-* 
 
 ## 行銷
 
@@ -146,7 +88,6 @@ Mode3: 只顯示會用到的key
 
 ### 想要以吉他學樂理的人如何想和想用這個app
 六線譜模式
-
 
 ### 跟樂器行、補習班、學校老師合作
 

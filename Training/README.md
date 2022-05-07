@@ -15,6 +15,15 @@ However, exercise problems number is insufficient for all level in the website.
 
 Thus, we will random generate exercise problems for unlimited number.
 
+* 音樂訓練app (競品)
+  * https://www.musictheory.net/exercises/
+  * Ear Training
+  * Funtional ear training
+  * interval training
+  * rhythm training
+  * guitar training
+
+
 ## Content
 音樂訓練有幾個方向:
 * 自動生成為主

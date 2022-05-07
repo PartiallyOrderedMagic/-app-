@@ -41,6 +41,9 @@ graph TD;
 
 ```
 
+### 隱藏功能(好的古典/爵士風格樂譜,吃無版權的歌,xml)
+
+
 ### Other resources
 [更多關於 **mermaid** 語法 <i class="fa fa-external-link"></i>](http://mermaid-js.github.io/mermaid)
 &nbsp;
