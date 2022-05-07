@@ -9,8 +9,32 @@ POM games proposal
 ## app2 : [Profissonal Training](Training)
 
 ## Roadmap
-https://hackmd.io/@csSdtC5WTi2sATtjy45nlQ/S1GuZ0M85
+```mermaid
+gantt title Roadmap
 
+    section Core Parser
+    data structure   :a1, 9999-12-31, 6d
+    mxl parser       :a2, after a1, 5d
+    alda parser      :a3, after a2, 5d
+    random generator :a4, after a3, 8d
+    
+    section Sound System
+    sound io         :b1, after a1, 4d
+    midi             :b2, after c3, 3d
+    blue tooth       :b3, after c3, 5d
+
+    section Game App
+    synthasia        :c1, after a1, 4d
+    circle           :c2, after c1, 3d
+    icon             :c3, after c2, 3d
+    multi line       :c4, after c3, 5d
+    card             :c5, after c4, 3d
+
+    section Training app
+    sheet            :d1, after c1, 3d
+    dynamic          :d2, after d1, 4d
+    
+```
 ## Marketing/Promoting
 
 
