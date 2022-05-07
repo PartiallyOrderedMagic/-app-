@@ -5,11 +5,10 @@ POM games proposal
 ## Introduction
 
 
-## app1 : Music Gamification
-[Proposal](Proposal/)
+## app1 : [Music Gamification](Gamification/)
 * Target: people may want to play music game
 
-## app2 : Profissonal Training
+## app2 : [Profissonal Training](Training)
 * Target: people learn music in 3 to 5 years
 
 ## Roadmap
