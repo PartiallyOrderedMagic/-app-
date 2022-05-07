@@ -2,9 +2,9 @@
 
 ## Purpose
 
-##
+Basic features for all application
 
-## Content
+## Platform
 
 * Platform
   * Mobile in major (1.3 billion at 2021)
@@ -40,37 +40,36 @@ graph TD;
     DataStructure --> Notation;
 
 ```
+souce code:  
+https://github.com/musescore/MuseScore/blob/master/src/importexport/musicxml/internal/musicxml/importmxmlpass1.cpp
 
-### 隱藏功能(好的古典/爵士風格樂譜,吃無版權的歌,xml)
-
-
-### Other resources
-[更多關於 **mermaid** 語法 <i class="fa fa-external-link"></i>](http://mermaid-js.github.io/mermaid)
-&nbsp;
-&nbsp;
-
-roadmap tool
-
-https://www.productplan.com/glossary/user-story/
-
-# app 技術範圍
-
-## 輸入方式：
-手機版：
-* 喇叭辨識
-* 手勢(左半螢幕, 右半螢幕)
-* (optional) 腳踏板
-
-PC版：
-* midi keyboard
-* 手機/平板轉為midi keyboard
-* 鍵盤
-* 滑鼠
-* 腳踏板
+## Music Copyright Issue
+* Famous songs?
+* Free for user
+  * Upload to https://musescore.com/ 
+  * Use public domain
+* Paid part
+  * hololive sing easy copyright songs such as vocaloid
+  * deal with Musician or buy from them
 
 
-給一個時間校正
-藍芽現在是low latency校正誤差很小
+## IO：
+* Moblie
+  * pinch recognizer
+  * hand gesture(left half, right half)
+  * (optional) pedal
+  * (optional) Aeroband PocketDrum Lite 
+
+* PC (all are optional)
+  * midi keyboard
+  * phone as midi keyboard
+  * keyboard
+  * mouse
+  * optional
+
+* Bluetooth 
+if low latency, need Correction 
+
 
 ## Training Code Flow
 
@@ -81,10 +80,6 @@ convert alda to musicxml format
 parse musicxml to data structure
 
 show measures on screen play sounds
-
-
-reference:
-https://github.com/musescore/MuseScore
 
 script language:
 alda-lang 
@@ -149,4 +144,3 @@ https://www.figma.com/
 完全不懂音樂的人能否真的從app中自發性進步並且學會樂理  
 可外包  
 甚至可能必須靠外包
-

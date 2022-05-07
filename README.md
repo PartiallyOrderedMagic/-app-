@@ -37,6 +37,21 @@ gantt title Roadmap
 ```
 ## Marketing/Promoting
 
+* Basic Promoting
+  * Able to use mxl, alda
+  * Compatible to current community
+  * Various visualization 
+    * Staff
+    * Tablature
+    * Synthasia
+    * Icon
+    * Notation
+
+* Advance Promoting
+  * cooperate with youtuber channel
+  * cooperate with music classroom, instrument store
+
+* Musician are able to upload their songs score
 
 ## 可以PK與否? 有聯機要素嗎
 * 排名會送不同獎勵
@@ -74,24 +89,6 @@ gantt title Roadmap
 
 ## 行銷
 
-### 如何讓第一次甚至沒接觸的人想進去玩
-Mode1: Synthesia 做成等距
-Mode2: 音game 落下來型的 但是顯示大鼓小鼓tom hight-hit drum
-Mode3: 只顯示會用到的key
-
-## 需要知名歌曲提升動機
-自己cover?
-自己載入社群
-唱歌 版權 ex: hololive都找版權的歌vocaloid
-
-### 跟youtuber合作
-
-### 想要以吉他學樂理的人如何想和想用這個app
-六線譜模式
-
-### 跟樂器行、補習班、學校老師合作
-
-
 ## 市場大小問題
 如果先做高難度產品，使用者太少而且又回到高門檻使用者少的問題
 
@@ -99,23 +96,7 @@ Mode3: 只顯示會用到的key
 
 同時發展音game的市場拓展性
 
-想學音樂的人
-
-## 其他社群
-
-可能發展一個社群 上面社群會自動上傳各種mxl樂譜
-
-自然而然獲得音樂庫 mxl
-
-同時也接收alda樂譜
-
-
 ## 問卷設計>市場取向 
-
-## 合作讓例方式
-## 版權問題 
-
-## 樂手可以購買 上傳
 
 ## 有雛型之後眾籌之前
 開始談分潤、分股、技術分紅

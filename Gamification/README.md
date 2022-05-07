@@ -15,6 +15,10 @@ For example, the width of note are not equal while midi will show equal size.
 Further, music terminology is hard for beginners to understand.  
 This game is able to make people learn music by nature while playing game.
 
+### Interface
+Mode1: Synthesia 做成等距
+Mode2: 音game 落下來型的 但是顯示大鼓小鼓tom hight-hit drum
+Mode3: 只顯示會用到的key
 
 參考概念：
 * 遊戲
