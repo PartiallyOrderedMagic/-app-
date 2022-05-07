@@ -16,17 +16,18 @@ Further, music terminology is hard for beginners to understand.
 This game is able to make people learn music by nature while playing game.
 
 ### Interface
-Mode1: Synthesia 做成等距
+Mode1: convert Synthesia to Isometric
 Mode2: 音game 落下來型的 但是顯示大鼓小鼓tom hight-hit drum
 Mode3: 只顯示會用到的key
 
-參考概念：
-* 遊戲
-  * 戰鼓趴搭碰
-  * 太鼓達人
-  * Cytus, deemo, 
-  * OSU
-  * 偶像大師、LL、BB
+## Competitive product
+* Patapon
+* Taiko no Tatsujin
+* Cytus, deemo, 
+* OSU
+* THE IDOLM@STER
+* Love Live
+* BanG Dream
 
 ## Colours note
 A4 (440Hz) is mapping to orange
