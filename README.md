@@ -51,6 +51,9 @@ gantt title Roadmap
 
 * Musician are able to upload their songs score
 
+### Marketing Size
+* Training App: smaller users, focus on central targets
+* Gamification App: larger users, widely design
 
 ## Operation
 ### Fee
@@ -69,31 +72,24 @@ gantt title Roadmap
   * 排名會送不同獎勵
   * 包月好處是容易獲得排名
 
-### 如何長青(過度擴張成本?) 純遊戲化
-* 角色卡抽卡
-  * 每隔一段時間會新增可抽卡的角色人工畫
-* 地圖增加
-  * 每隔一段時間會新增可探索新地圖人工畫
-* 系統擴充
-  * 除了RPG打怪之外，未來會增加更多遊戲化系統
-  * 經營模擬系統
-    * 種花種草養寵物
-    * 蓋房子
-    * 雞生蛋
-    * 隨著時間增加可養的寵物類型會更新增加
-  * 服飾服裝系統
-    * 美髮美甲美妝
-
-## 市場大小問題
-如果先做高難度產品，使用者太少而且又回到高門檻使用者少的問題
-
-同時發展一部分高難度的題目(先做市面上沒有替代品的技術題目)
-
-同時發展音game的市場拓展性
+### Industry Life Cycle
+* Character cards
+  * Keep increasing Character cards
+* Map, Mission
+  * Increasing missions, stories
+* System expansion
+  * Not only RPG system
+  * Silmuation system
+    * Flowers, Pets, ...
+    * House, Land, Castle, ...
+    * Chicken lay egg, ...
+    * Fishing
+  * Clothing , Makeup system
+    * nail painting
 
 ## 問卷設計>市場取向
 
 ## 有雛型之後眾籌之前
-開始談分潤、分股、技術分紅
-參考崩壞三的team怎麼起來
-崩壞一 > 二....> 米哈遊
+開始談分潤、分股、技術分紅  
+參考崩壞三的team怎麼起來  
+崩壞一 > 二....> 米哈遊  
