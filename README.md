@@ -1,6 +1,4 @@
-# POM Apps Proposal
-<p align="center"><img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM Game <img src="https://raw.githubusercontent.com/PartiallyOrderedMagic/-app-/master/ICON/POM-game.png" Height="32" /></p>
-
+# <img src="https://github.com/PartiallyOrderedMagic/PartiallyOrderedMagic.github.io/raw/master/Icon/Design/4Element.svg" Height="32" />POM Game <img src="https://raw.githubusercontent.com/PartiallyOrderedMagic/-app-/master/ICON/POM-game.png" Height="32" />
 
 ## app0 : [Versatile Utilities](Utility/)
 
