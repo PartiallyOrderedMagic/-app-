@@ -31,7 +31,7 @@ graph TD;
     MXL --> DataStructure;
    
     begin --> notation;
-    notation --> MXL;
+    notation --> aldaLang;
 
     DataStructure --> Tablature;
     DataStructure --> Staff;
