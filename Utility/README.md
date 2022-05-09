@@ -51,6 +51,7 @@ https://github.com/musescore/MuseScore/blob/master/src/importexport/musicxml/int
 * Paid part
   * hololive sing easy copyright songs such as vocaloid
   * deal with Musician or buy from them
+  * 跟風蹭熱度
 
 
 ## IO：
