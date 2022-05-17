@@ -89,6 +89,7 @@ gantt title Roadmap
     * Fishing
   * Clothing , Makeup system
     * nail painting
+* h-game
 
 ## 問卷設計>市場取向
 
