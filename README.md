@@ -62,6 +62,9 @@ gantt title Roadmap
   * After Lv.30, only 20 minutes per day
   * Need to buy in store if want to play more
   * 新手優惠期 成癮之後再綁 (養套殺)
+* 另一種策略
+  * 新手就先鎖，高手自然會去練長期
+  * 初期鎖地圖，通關之後可以自由逛不同地圖
 * Advertisement
   * Recovery some stamina after watching an ad.
 * Experience double, trible package
